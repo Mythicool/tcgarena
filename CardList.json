@@ -1,0 +1,425 @@
+{
+  "ST29-001": {
+    "id": "ST29-001",
+    "face": {
+      "front": {
+        "name": "ST29-001 Monkey.D.Luffy",
+        "type": "Leader",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-001.png?250425"
+      }
+    },
+    "name": "ST29-001 Monkey.D.Luffy",
+    "type": "Leader",
+    "cost": 6,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Straw Hat Crew",
+      "The Four Emperors",
+      "Egghead"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "ST29-002": {
+    "id": "ST29-002",
+    "face": {
+      "front": {
+        "name": "ST29-002 Usopp",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-002.png?250425"
+      }
+    },
+    "name": "ST29-002 Usopp",
+    "type": "Character",
+    "cost": 3,
+    "power": 4000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Straw Hat Crew",
+      "Egghead"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "ST29-003": {
+    "id": "ST29-003",
+    "face": {
+      "front": {
+        "name": "ST29-003 Kaku",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-003.png?250425"
+      }
+    },
+    "name": "ST29-003 Kaku",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "CP0",
+      "Egghead"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "ST29-004": {
+    "id": "ST29-004",
+    "face": {
+      "front": {
+        "name": "ST29-004 Sanji",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-004.png?250425"
+      }
+    },
+    "name": "ST29-004 Sanji",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Straw Hat Crew",
+      "Egghead"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "ST29-005": {
+    "id": "ST29-005",
+    "face": {
+      "front": {
+        "name": "ST29-005 Jinbe",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-005.png?250425"
+      }
+    },
+    "name": "ST29-005 Jinbe",
+    "type": "Character",
+    "cost": 6,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "Straw Hat Crew",
+      "Egghead"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "ST29-006": {
+    "id": "ST29-006",
+    "face": {
+      "front": {
+        "name": "ST29-006 Stussy",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-006.png?250425"
+      }
+    },
+    "name": "ST29-006 Stussy",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Egghead"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "ST29-007": {
+    "id": "ST29-007",
+    "face": {
+      "front": {
+        "name": "ST29-007 Tony Tony.Chopper",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-007.png?250425"
+      }
+    },
+    "name": "ST29-007 Tony Tony.Chopper",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Animal",
+      "Straw Hat Crew",
+      "Egghead"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "ST29-008": {
+    "id": "ST29-008",
+    "face": {
+      "front": {
+        "name": "ST29-008 Nami",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-008.png?250425"
+      }
+    },
+    "name": "ST29-008 Nami",
+    "type": "Character",
+    "cost": 3,
+    "power": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Straw Hat Crew",
+      "Egghead"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "ST29-009": {
+    "id": "ST29-009",
+    "face": {
+      "front": {
+        "name": "ST29-009 Nico Robin",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-009.png?250425"
+      }
+    },
+    "name": "ST29-009 Nico Robin",
+    "type": "Character",
+    "cost": 4,
+    "power": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Straw Hat Crew",
+      "Egghead"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "ST29-010": {
+    "id": "ST29-010",
+    "face": {
+      "front": {
+        "name": "ST29-010 Franky",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-010.png?250425"
+      }
+    },
+    "name": "ST29-010 Franky",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Straw Hat Crew",
+      "Egghead"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "ST29-011": {
+    "id": "ST29-011",
+    "face": {
+      "front": {
+        "name": "ST29-011 Brook",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-011.png?250425"
+      }
+    },
+    "name": "ST29-011 Brook",
+    "type": "Character",
+    "cost": 2,
+    "power": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Straw Hat Crew",
+      "Egghead"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "ST29-012": {
+    "id": "ST29-012",
+    "face": {
+      "front": {
+        "name": "ST29-012 Monkey.D.Luffy",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-012.png?250425"
+      }
+    },
+    "name": "ST29-012 Monkey.D.Luffy",
+    "type": "Character",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Straw Hat Crew",
+      "The Four Emperors",
+      "Egghead"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "ST29-013": {
+    "id": "ST29-013",
+    "face": {
+      "front": {
+        "name": "ST29-013 Rob Lucci",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-013.png?250425"
+      }
+    },
+    "name": "ST29-013 Rob Lucci",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "CP0",
+      "Egghead"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "ST29-014": {
+    "id": "ST29-014",
+    "face": {
+      "front": {
+        "name": "ST29-014 Roronoa Zoro",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-014.png?250425"
+      }
+    },
+    "name": "ST29-014 Roronoa Zoro",
+    "type": "Character",
+    "cost": 6,
+    "power": 8000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Straw Hat Crew",
+      "Egghead"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "ST29-015": {
+    "id": "ST29-015",
+    "face": {
+      "front": {
+        "name": "ST29-015 Raw Heat Strike",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-015.png?250425"
+      }
+    },
+    "name": "ST29-015 Raw Heat Strike",
+    "type": "Event",
+    "cost": 1,
+    "power": null,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Straw Hat Crew",
+      "Egghead"
+    ],
+    "attributes": []
+  },
+  "ST29-016": {
+    "id": "ST29-016",
+    "face": {
+      "front": {
+        "name": "ST29-016 Kizaru!! Compared to Two Years Ago We're a Hundred Times Stronger Now!!",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-016.png?250425"
+      }
+    },
+    "name": "ST29-016 Kizaru!! Compared to Two Years Ago We're a Hundred Times Stronger Now!!",
+    "type": "Event",
+    "cost": 1,
+    "power": null,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Straw Hat Crew",
+      "The Four Emperors",
+      "Egghead"
+    ],
+    "attributes": []
+  },
+  "ST29-017": {
+    "id": "ST29-017",
+    "face": {
+      "front": {
+        "name": "ST29-017 Iai Death Lion Song",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/ST29-017.png?250425"
+      }
+    },
+    "name": "ST29-017 Iai Death Lion Song",
+    "type": "Event",
+    "cost": 2,
+    "power": null,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Straw Hat Crew",
+      "Egghead"
+    ],
+    "attributes": []
+  }
+}
