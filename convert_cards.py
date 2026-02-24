@@ -51,18 +51,20 @@ def convert_cards():
                     
                     card_type = card.get("type", "Character").capitalize()
                     
+                    name_with_id = f"{card.get('name', 'Unknown')} {card_id}"
+                    
                     # Construct the object
                     tcg_card = {
                         "id": card_id,
                         "face": {
                             "front": {
-                                "name": card.get("name", "Unknown"),
+                                "name": name_with_id,
                                 "type": card_type,
                                 "cost": cost,
                                 "image": card.get("images", {}).get("large", "")
                             }
                         },
-                        "name": card.get("name", "Unknown"),
+                        "name": name_with_id,
                         "type": card_type,
                         "cost": cost,
                         "power": power,

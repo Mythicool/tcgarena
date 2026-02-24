@@ -98,18 +98,20 @@ def parse_limitless_text(filepath):
         # Adding a cache bust parameter just in case
         image_url = f"https://en.onepiece-cardgame.com/images/cardlist/card/{card_id}.png?240419"
         
+        name_with_id = f"{name} {card_id}"
+        
         # Build TCG Arena format
         tcg_card = {
             "id": card_id,
             "face": {
                 "front": {
-                    "name": name,
+                    "name": name_with_id,
                     "type": card_type,
                     "cost": cost,
                     "image": image_url
                 }
             },
-            "name": name,
+            "name": name_with_id,
             "type": card_type,
             "cost": cost,
             "power": power,
