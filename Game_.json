@@ -8,12 +8,12 @@
             "https://i.imgur.com/Q8O6bhf.png",
             "https://i.imgur.com/LiqG4NS.jpeg"
         ],
-        "decksUrl": "https://cdn.jsdelivr.net/gh/Mythicool/tcgarena@main/Decks.json"
+        "decksUrl": "https://mythicool.github.io/tcgarena/Decks.json"
     },
     "customHelp": "ONE PIECE CARD GAME – RULES SUMMARY\n\nSETUP:\n• Place your Leader card face-up in the Leader area\n• Shuffle your deck (50 cards)\n• Place your DON!! deck (10 DON!! cards) in the DON!! area\n• Place the top cards of your deck face-down into your Life area equal to your Leader's Life value\n• Draw 5 cards from your deck\n• Mulligan: You may shuffle your entire hand back and draw 5 new cards (once only)\n• First player does NOT draw on their first turn\n\nTURN PHASES:\n1. Refresh Phase – Set all rested (sideways) cards upright, including DON!!\n2. DON!! Phase – Add 2 DON!! cards from DON!! deck to your Cost Area (1 on first turn for first player)\n3. Draw Phase – Draw 1 card (skipped on first player's first turn)\n4. Main Phase – Play Characters, Events, Stages by paying DON!! cost. Attach DON!! to Leader/Characters for +1000 power each\n5. Battle Phase – Attack with your Leader and active Characters\n6. End Phase – Resolve end-of-turn effects\n\nATTACKING:\n• Rest (turn sideways) the attacking card to declare an attack\n• You may attack the opponent's Leader OR a rested Character\n• Compare Power: Attacker wins if power ≥ defender's power\n• Defender may play Counter events or use Counter+ values from hand\n• If Leader takes damage, move the top Life card to hand (check for Trigger)\n• If a Character is defeated, it goes to Trash\n\nWIN CONDITION:\n• Deal damage to opponent's Leader when they have 0 Life cards remaining\n\nKEY RULES:\n• Max 4 copies of any card (by card number) in deck\n• Max 5 Characters on the field at once\n• Leader cannot be KO'd (only takes Life damage)\n• DON!! attached to characters returns to Cost Area at end of turn\n• [Trigger] effects activate when a Life card is moved to hand from damage\n• [Blocker] – Rest this card to redirect an attack to it\n• [Rush] – This card can attack the turn it is played\n• [Counter] – Can be played during the Counter Step of battle",
     "cardRotation": 90,
     "cards": {
-        "dataUrl": "https://cdn.jsdelivr.net/gh/Mythicool/tcgarena@main/CardList.json",
+        "dataUrl": "https://mythicool.github.io/tcgarena/CardList.json",
         "cardBack": "https://i.imgur.com/C3yEbOg.jpeg",
         "extraCardBacks": {
             "DON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRONRgZsYvKc8vVQaMptywwZnDfZO1aHY7pGw&s"
