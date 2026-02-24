@@ -72,7 +72,8 @@
       "Kid Pirates"
     ],
     "attributes": [
-      "Slash/Special"
+      "Slash",
+      "Special"
     ]
   },
   "EB01-004": {
@@ -2126,7 +2127,7 @@
         "name": "Portgas.D.Ace",
         "type": "Character",
         "cost": 5,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-028.png?250530"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-028.png?240419"
       }
     },
     "name": "Portgas.D.Ace",
@@ -24775,7 +24776,7 @@
         "name": "Perona",
         "type": "Character",
         "cost": 4,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-093.png?240222"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-093.png?240419"
       }
     },
     "name": "Perona",
@@ -26526,7 +26527,7 @@
         "name": "Sengoku",
         "type": "Character",
         "cost": 1,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-046.png?240831"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-046.png?240419"
       }
     },
     "name": "Sengoku",
@@ -28096,7 +28097,7 @@
         "name": "Lilith",
         "type": "Character",
         "cost": 3,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-111.png?240831"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-111.png?240419"
       }
     },
     "name": "Lilith",
@@ -28262,7 +28263,7 @@
         "name": "Sabo",
         "type": "Character",
         "cost": 8,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-118.png?240831"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-118.png?240419"
       }
     },
     "name": "Sabo",
@@ -31252,7 +31253,7 @@
         "name": "Shanks",
         "type": "Character",
         "cost": 10,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004.png?241220"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004.png?240419"
       }
     },
     "name": "Shanks",
@@ -31262,10 +31263,7 @@
     "colors": [
       "Red"
     ],
-    "subtype": [
-      "The Four Emperors",
-      "Red-Haired Pirates"
-    ],
+    "subtype": [],
     "attributes": [
       "Slash"
     ]
@@ -31373,7 +31371,7 @@
         "name": "Benn.Beckman",
         "type": "Character",
         "cost": 7,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009.png?241220"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-009.png?240419"
       }
     },
     "name": "Benn.Beckman",
@@ -32399,7 +32397,7 @@
         "name": "Buggy",
         "type": "Character",
         "cost": 10,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051.png?241220"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-051.png?240419"
       }
     },
     "name": "Buggy",
@@ -32409,10 +32407,7 @@
     "colors": [
       "Blue"
     ],
-    "subtype": [
-      "The Four Emperors",
-      "Cross Guild"
-    ],
+    "subtype": [],
     "attributes": [
       "Slash"
     ]
@@ -34002,7 +33997,7 @@
         "name": "Gol.D.Roger",
         "type": "Character",
         "cost": 10,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118.png?241220"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-118.png?240419"
       }
     },
     "name": "Gol.D.Roger",
@@ -34012,10 +34007,7 @@
     "colors": [
       "Red"
     ],
-    "subtype": [
-      "King of the Pirates",
-      "Roger Pirates"
-    ],
+    "subtype": [],
     "attributes": [
       "Slash"
     ]
@@ -34027,7 +34019,7 @@
         "name": "Monkey.D.Luffy",
         "type": "Character",
         "cost": 9,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119.png?241220"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-119.png?240419"
       }
     },
     "name": "Monkey.D.Luffy",
@@ -34773,7 +34765,7 @@
         "name": "Smoker",
         "type": "Character",
         "cost": 5,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-030.png?250530"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-030.png?240419"
       }
     },
     "name": "Smoker",
@@ -35637,7 +35629,7 @@
         "name": "Sugar",
         "type": "Character",
         "cost": 1,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-065.png?250530"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-065.png?240419"
       }
     },
     "name": "Sugar",
@@ -38389,7 +38381,7 @@
         "name": "Monkey.D.Luffy",
         "type": "Character",
         "cost": 5,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-058.png?250530"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-058.png?240419"
       }
     },
     "name": "Monkey.D.Luffy",
@@ -40587,7 +40579,7 @@
         "name": "Dracule Mihawk",
         "type": "Character",
         "cost": 8,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-030.png?250829"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-030.png?240419"
       }
     },
     "name": "Dracule Mihawk",
@@ -42484,7 +42476,7 @@
         "name": "Donquixote Rosinante",
         "type": "Character",
         "cost": 1,
-        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-108.png?250829"
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP12-108.png?240419"
       }
     },
     "name": "Donquixote Rosinante",
@@ -48033,6 +48025,6499 @@
     ],
     "attributes": [
       "Strike"
+    ]
+  },
+  "OP13-001": {
+    "id": "OP13-001",
+    "face": {
+      "front": {
+        "name": "Monkey.D.Luffy",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-001.png?240419"
+      }
+    },
+    "name": "Monkey.D.Luffy",
+    "type": "Leader",
+    "cost": 0,
+    "power": 5000,
+    "colors": [
+      "Red",
+      "Green"
+    ],
+    "subtype": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-002": {
+    "id": "OP13-002",
+    "face": {
+      "front": {
+        "name": "Portgas.D.Ace",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-002.png?240419"
+      }
+    },
+    "name": "Portgas.D.Ace",
+    "type": "Leader",
+    "cost": 0,
+    "power": 6000,
+    "colors": [
+      "Red",
+      "Blue"
+    ],
+    "subtype": [
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-003": {
+    "id": "OP13-003",
+    "face": {
+      "front": {
+        "name": "Gol.D.Roger",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-003.png?240419"
+      }
+    },
+    "name": "Gol.D.Roger",
+    "type": "Leader",
+    "cost": 0,
+    "power": 7000,
+    "colors": [
+      "Red",
+      "Purple"
+    ],
+    "subtype": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-004": {
+    "id": "OP13-004",
+    "face": {
+      "front": {
+        "name": "Sabo",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-004.png?240419"
+      }
+    },
+    "name": "Sabo",
+    "type": "Leader",
+    "cost": 0,
+    "power": 5000,
+    "colors": [
+      "Red",
+      "Black"
+    ],
+    "subtype": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-005": {
+    "id": "OP13-005",
+    "face": {
+      "front": {
+        "name": "Inazuma",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-005.png?240419"
+      }
+    },
+    "name": "Inazuma",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Revolutionary Army"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-006": {
+    "id": "OP13-006",
+    "face": {
+      "front": {
+        "name": "Woop Slap",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-006.png?240419"
+      }
+    },
+    "name": "Woop Slap",
+    "type": "Character",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Windmill Village"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-007": {
+    "id": "OP13-007",
+    "face": {
+      "front": {
+        "name": "Ace & Sabo & Luffy",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-007.png?240419"
+      }
+    },
+    "name": "Ace & Sabo & Luffy",
+    "type": "Character",
+    "cost": 1,
+    "power": 1000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Goa Kingdom"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-008": {
+    "id": "OP13-008",
+    "face": {
+      "front": {
+        "name": "Emporio.Ivankov",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-008.png?240419"
+      }
+    },
+    "name": "Emporio.Ivankov",
+    "type": "Character",
+    "cost": 2,
+    "power": 3000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Revolutionary Army"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-009": {
+    "id": "OP13-009",
+    "face": {
+      "front": {
+        "name": "Curly.Dadan",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-009.png?240419"
+      }
+    },
+    "name": "Curly.Dadan",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Mountain Bandits"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-010": {
+    "id": "OP13-010",
+    "face": {
+      "front": {
+        "name": "Lord of the Coast",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-010.png?240419"
+      }
+    },
+    "name": "Lord of the Coast",
+    "type": "Character",
+    "cost": 6,
+    "power": 8000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Neptunian",
+      "East Blue"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-011": {
+    "id": "OP13-011",
+    "face": {
+      "front": {
+        "name": "Nefeltari Cobra",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-011.png?240419"
+      }
+    },
+    "name": "Nefeltari Cobra",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Alabasta"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-012": {
+    "id": "OP13-012",
+    "face": {
+      "front": {
+        "name": "Nefeltari Vivi",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-012.png?240419"
+      }
+    },
+    "name": "Nefeltari Vivi",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Alabasta"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-013": {
+    "id": "OP13-013",
+    "face": {
+      "front": {
+        "name": "Higuma",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-013.png?240419"
+      }
+    },
+    "name": "Higuma",
+    "type": "Character",
+    "cost": 1,
+    "power": 3000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Mountain Bandits"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-014": {
+    "id": "OP13-014",
+    "face": {
+      "front": {
+        "name": "Portgas.D.Rouge",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-014.png?240419"
+      }
+    },
+    "name": "Portgas.D.Rouge",
+    "type": "Character",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Baterilla"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-015": {
+    "id": "OP13-015",
+    "face": {
+      "front": {
+        "name": "Makino",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-015.png?240419"
+      }
+    },
+    "name": "Makino",
+    "type": "Character",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Windmill Village"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-016": {
+    "id": "OP13-016",
+    "face": {
+      "front": {
+        "name": "Monkey.D.Garp",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-016.png?240419"
+      }
+    },
+    "name": "Monkey.D.Garp",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Navy"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-017": {
+    "id": "OP13-017",
+    "face": {
+      "front": {
+        "name": "Monkey.D.Dragon",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-017.png?240419"
+      }
+    },
+    "name": "Monkey.D.Dragon",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Revolutionary Army"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-018": {
+    "id": "OP13-018",
+    "face": {
+      "front": {
+        "name": "Wapol",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-018.png?240419"
+      }
+    },
+    "name": "Wapol",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Evil Black Drum Kingdom"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-019": {
+    "id": "OP13-019",
+    "face": {
+      "front": {
+        "name": "But Ace Here Said You Deserved It!!",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-019.png?240419"
+      }
+    },
+    "name": "But Ace Here Said You Deserved It!!",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-020": {
+    "id": "OP13-020",
+    "face": {
+      "front": {
+        "name": "Meteor Fist",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-020.png?240419"
+      }
+    },
+    "name": "Meteor Fist",
+    "type": "Event",
+    "cost": 3,
+    "power": 0,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-021": {
+    "id": "OP13-021",
+    "face": {
+      "front": {
+        "name": "Gum-Gum Gatling Gun",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-021.png?240419"
+      }
+    },
+    "name": "Gum-Gum Gatling Gun",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-022": {
+    "id": "OP13-022",
+    "face": {
+      "front": {
+        "name": "Windmill Village",
+        "type": "Stage",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-022.png?240419"
+      }
+    },
+    "name": "Windmill Village",
+    "type": "Stage",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-023": {
+    "id": "OP13-023",
+    "face": {
+      "front": {
+        "name": "Uta",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-023.png?240419"
+      }
+    },
+    "name": "Uta",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-024": {
+    "id": "OP13-024",
+    "face": {
+      "front": {
+        "name": "Gordon",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-024.png?240419"
+      }
+    },
+    "name": "Gordon",
+    "type": "Character",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-025": {
+    "id": "OP13-025",
+    "face": {
+      "front": {
+        "name": "Koby",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-025.png?240419"
+      }
+    },
+    "name": "Koby",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM",
+      "Navy"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-026": {
+    "id": "OP13-026",
+    "face": {
+      "front": {
+        "name": "Sunny-Kun",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-026.png?240419"
+      }
+    },
+    "name": "Sunny-Kun",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-027": {
+    "id": "OP13-027",
+    "face": {
+      "front": {
+        "name": "Sanji",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-027.png?240419"
+      }
+    },
+    "name": "Sanji",
+    "type": "Character",
+    "cost": 5,
+    "power": 7000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-028": {
+    "id": "OP13-028",
+    "face": {
+      "front": {
+        "name": "Shanks",
+        "type": "Character",
+        "cost": 10,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-028.png?240419"
+      }
+    },
+    "name": "Shanks",
+    "type": "Character",
+    "cost": 10,
+    "power": 12000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM",
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-029": {
+    "id": "OP13-029",
+    "face": {
+      "front": {
+        "name": "Jinbe",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-029.png?240419"
+      }
+    },
+    "name": "Jinbe",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-030": {
+    "id": "OP13-030",
+    "face": {
+      "front": {
+        "name": "Tony Tony.Chopper",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-030.png?240419"
+      }
+    },
+    "name": "Tony Tony.Chopper",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Animal",
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-031": {
+    "id": "OP13-031",
+    "face": {
+      "front": {
+        "name": "Trafalgar Law",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-031.png?240419"
+      }
+    },
+    "name": "Trafalgar Law",
+    "type": "Character",
+    "cost": 6,
+    "power": 6000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-032": {
+    "id": "OP13-032",
+    "face": {
+      "front": {
+        "name": "Nico Robin",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-032.png?240419"
+      }
+    },
+    "name": "Nico Robin",
+    "type": "Character",
+    "cost": 7,
+    "power": 7000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-033": {
+    "id": "OP13-033",
+    "face": {
+      "front": {
+        "name": "Franky",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-033.png?240419"
+      }
+    },
+    "name": "Franky",
+    "type": "Character",
+    "cost": 3,
+    "power": 5000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-034": {
+    "id": "OP13-034",
+    "face": {
+      "front": {
+        "name": "Brook",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-034.png?240419"
+      }
+    },
+    "name": "Brook",
+    "type": "Character",
+    "cost": 3,
+    "power": 4000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-035": {
+    "id": "OP13-035",
+    "face": {
+      "front": {
+        "name": "Bepo",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-035.png?240419"
+      }
+    },
+    "name": "Bepo",
+    "type": "Character",
+    "cost": 5,
+    "power": 7000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Minks",
+      "FILM",
+      "Heart Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-036": {
+    "id": "OP13-036",
+    "face": {
+      "front": {
+        "name": "Helmeppo",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-036.png?240419"
+      }
+    },
+    "name": "Helmeppo",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM",
+      "Navy"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-037": {
+    "id": "OP13-037",
+    "face": {
+      "front": {
+        "name": "Roronoa Zoro",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-037.png?240419"
+      }
+    },
+    "name": "Roronoa Zoro",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-038": {
+    "id": "OP13-038",
+    "face": {
+      "front": {
+        "name": "Gum-Gum Elephant Gun",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-038.png?240419"
+      }
+    },
+    "name": "Gum-Gum Elephant Gun",
+    "type": "Event",
+    "cost": 2,
+    "power": 0,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-039": {
+    "id": "OP13-039",
+    "face": {
+      "front": {
+        "name": "Gum-Gum Snake Shot",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-039.png?240419"
+      }
+    },
+    "name": "Gum-Gum Snake Shot",
+    "type": "Event",
+    "cost": 2,
+    "power": 0,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-040": {
+    "id": "OP13-040",
+    "face": {
+      "front": {
+        "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-040.png?240419"
+      }
+    },
+    "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-041": {
+    "id": "OP13-041",
+    "face": {
+      "front": {
+        "name": "Izo",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-041.png?240419"
+      }
+    },
+    "name": "Izo",
+    "type": "Character",
+    "cost": 6,
+    "power": 6000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Land of Wano",
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "OP13-042": {
+    "id": "OP13-042",
+    "face": {
+      "front": {
+        "name": "Edward.Newgate",
+        "type": "Character",
+        "cost": 10,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-042.png?240419"
+      }
+    },
+    "name": "Edward.Newgate",
+    "type": "Character",
+    "cost": 10,
+    "power": 12000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-043": {
+    "id": "OP13-043",
+    "face": {
+      "front": {
+        "name": "Otama",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-043.png?240419"
+      }
+    },
+    "name": "Otama",
+    "type": "Character",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Land of Wano"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-044": {
+    "id": "OP13-044",
+    "face": {
+      "front": {
+        "name": "Curiel",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-044.png?240419"
+      }
+    },
+    "name": "Curiel",
+    "type": "Character",
+    "cost": 3,
+    "power": 4000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "OP13-045": {
+    "id": "OP13-045",
+    "face": {
+      "front": {
+        "name": "Haruta",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-045.png?240419"
+      }
+    },
+    "name": "Haruta",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-046": {
+    "id": "OP13-046",
+    "face": {
+      "front": {
+        "name": "Vista",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-046.png?240419"
+      }
+    },
+    "name": "Vista",
+    "type": "Character",
+    "cost": 6,
+    "power": 8000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-047": {
+    "id": "OP13-047",
+    "face": {
+      "front": {
+        "name": "Fossa",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-047.png?240419"
+      }
+    },
+    "name": "Fossa",
+    "type": "Character",
+    "cost": 2,
+    "power": 3000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-048": {
+    "id": "OP13-048",
+    "face": {
+      "front": {
+        "name": "Blamenco",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-048.png?240419"
+      }
+    },
+    "name": "Blamenco",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-049": {
+    "id": "OP13-049",
+    "face": {
+      "front": {
+        "name": "Blenheim",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-049.png?240419"
+      }
+    },
+    "name": "Blenheim",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-050": {
+    "id": "OP13-050",
+    "face": {
+      "front": {
+        "name": "Boa Sandersonia",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-050.png?240419"
+      }
+    },
+    "name": "Boa Sandersonia",
+    "type": "Character",
+    "cost": 2,
+    "power": 3000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Kuja Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-051": {
+    "id": "OP13-051",
+    "face": {
+      "front": {
+        "name": "Boa Hancock",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-051.png?240419"
+      }
+    },
+    "name": "Boa Hancock",
+    "type": "Character",
+    "cost": 3,
+    "power": 5000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-052": {
+    "id": "OP13-052",
+    "face": {
+      "front": {
+        "name": "Boa Marigold",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-052.png?240419"
+      }
+    },
+    "name": "Boa Marigold",
+    "type": "Character",
+    "cost": 5,
+    "power": 4000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Kuja Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-053": {
+    "id": "OP13-053",
+    "face": {
+      "front": {
+        "name": "Marshall.D.Teach",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-053.png?240419"
+      }
+    },
+    "name": "Marshall.D.Teach",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-054": {
+    "id": "OP13-054",
+    "face": {
+      "front": {
+        "name": "Yamato",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-054.png?240419"
+      }
+    },
+    "name": "Yamato",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Land of Wano"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-055": {
+    "id": "OP13-055",
+    "face": {
+      "front": {
+        "name": "Rakuyo",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-055.png?240419"
+      }
+    },
+    "name": "Rakuyo",
+    "type": "Character",
+    "cost": 3,
+    "power": 4000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-056": {
+    "id": "OP13-056",
+    "face": {
+      "front": {
+        "name": "LittleOars Jr.",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-056.png?240419"
+      }
+    },
+    "name": "LittleOars Jr.",
+    "type": "Character",
+    "cost": 7,
+    "power": 7000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Giant",
+      "Whitebeard Pirates Allies"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-057": {
+    "id": "OP13-057",
+    "face": {
+      "front": {
+        "name": "If I Bowed Down to Power, What's the Point in Living?",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-057.png?240419"
+      }
+    },
+    "name": "If I Bowed Down to Power, What's the Point in Living?",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-058": {
+    "id": "OP13-058",
+    "face": {
+      "front": {
+        "name": "Phoenix Pyreapple",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-058.png?240419"
+      }
+    },
+    "name": "Phoenix Pyreapple",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-059": {
+    "id": "OP13-059",
+    "face": {
+      "front": {
+        "name": "Brilliant Punk",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-059.png?240419"
+      }
+    },
+    "name": "Brilliant Punk",
+    "type": "Event",
+    "cost": 4,
+    "power": 0,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-060": {
+    "id": "OP13-060",
+    "face": {
+      "front": {
+        "name": "Amatsuki Toki",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-060.png?240419"
+      }
+    },
+    "name": "Amatsuki Toki",
+    "type": "Character",
+    "cost": 2,
+    "power": 3000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Land of Wano",
+      "Roger Pirates"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-061": {
+    "id": "OP13-061",
+    "face": {
+      "front": {
+        "name": "Inuarashi",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-061.png?240419"
+      }
+    },
+    "name": "Inuarashi",
+    "type": "Character",
+    "cost": 3,
+    "power": 3000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Minks",
+      "Roger Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-062": {
+    "id": "OP13-062",
+    "face": {
+      "front": {
+        "name": "Crocus",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-062.png?240419"
+      }
+    },
+    "name": "Crocus",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Roger Pirates"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-063": {
+    "id": "OP13-063",
+    "face": {
+      "front": {
+        "name": "Kouzuki Oden",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-063.png?240419"
+      }
+    },
+    "name": "Kouzuki Oden",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Land of Wano",
+      "Kouzuki Clan",
+      "Roger Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-064": {
+    "id": "OP13-064",
+    "face": {
+      "front": {
+        "name": "Gol.D.Roger",
+        "type": "Character",
+        "cost": 10,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-064.png?240419"
+      }
+    },
+    "name": "Gol.D.Roger",
+    "type": "Character",
+    "cost": 10,
+    "power": 13000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-065": {
+    "id": "OP13-065",
+    "face": {
+      "front": {
+        "name": "Shanks",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-065.png?240419"
+      }
+    },
+    "name": "Shanks",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Roger Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-066": {
+    "id": "OP13-066",
+    "face": {
+      "front": {
+        "name": "Silvers Rayleigh",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-066.png?240419"
+      }
+    },
+    "name": "Silvers Rayleigh",
+    "type": "Character",
+    "cost": 8,
+    "power": 9000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Roger Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-067": {
+    "id": "OP13-067",
+    "face": {
+      "front": {
+        "name": "Scopper Gaban",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-067.png?240419"
+      }
+    },
+    "name": "Scopper Gaban",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Roger Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-068": {
+    "id": "OP13-068",
+    "face": {
+      "front": {
+        "name": "Douglas Bullet",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-068.png?240419"
+      }
+    },
+    "name": "Douglas Bullet",
+    "type": "Character",
+    "cost": 3,
+    "power": 4000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "FILM",
+      "Former Roger Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-069": {
+    "id": "OP13-069",
+    "face": {
+      "front": {
+        "name": "Tom",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-069.png?240419"
+      }
+    },
+    "name": "Tom",
+    "type": "Character",
+    "cost": 2,
+    "power": 2000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "Water Seven"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-070": {
+    "id": "OP13-070",
+    "face": {
+      "front": {
+        "name": "Napoleon",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-070.png?240419"
+      }
+    },
+    "name": "Napoleon",
+    "type": "Character",
+    "cost": 5,
+    "power": 7000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Homies",
+      "Big Mom Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-071": {
+    "id": "OP13-071",
+    "face": {
+      "front": {
+        "name": "Nekomamushi",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-071.png?240419"
+      }
+    },
+    "name": "Nekomamushi",
+    "type": "Character",
+    "cost": 3,
+    "power": 3000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Minks",
+      "Roger Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-072": {
+    "id": "OP13-072",
+    "face": {
+      "front": {
+        "name": "Buggy",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-072.png?240419"
+      }
+    },
+    "name": "Buggy",
+    "type": "Character",
+    "cost": 2,
+    "power": 2000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Roger Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-073": {
+    "id": "OP13-073",
+    "face": {
+      "front": {
+        "name": "Prometheus",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-073.png?240419"
+      }
+    },
+    "name": "Prometheus",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Homies",
+      "Big Mom Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-074": {
+    "id": "OP13-074",
+    "face": {
+      "front": {
+        "name": "Hera",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-074.png?240419"
+      }
+    },
+    "name": "Hera",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Homies",
+      "Big Mom Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-075": {
+    "id": "OP13-075",
+    "face": {
+      "front": {
+        "name": "Guess We'll Have Another Scrap. You Can Only Risk Death While You're Still Alive!!",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-075.png?240419"
+      }
+    },
+    "name": "Guess We'll Have Another Scrap. You Can Only Risk Death While You're Still Alive!!",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-076": {
+    "id": "OP13-076",
+    "face": {
+      "front": {
+        "name": "Divine Departure",
+        "type": "Event",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-076.png?240419"
+      }
+    },
+    "name": "Divine Departure",
+    "type": "Event",
+    "cost": 0,
+    "power": 0,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-077": {
+    "id": "OP13-077",
+    "face": {
+      "front": {
+        "name": "Go All the Way to the Top!!",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-077.png?240419"
+      }
+    },
+    "name": "Go All the Way to the Top!!",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-078": {
+    "id": "OP13-078",
+    "face": {
+      "front": {
+        "name": "Oro Jackson",
+        "type": "Stage",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-078.png?240419"
+      }
+    },
+    "name": "Oro Jackson",
+    "type": "Stage",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-079": {
+    "id": "OP13-079",
+    "face": {
+      "front": {
+        "name": "Imu",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-079.png?240419"
+      }
+    },
+    "name": "Imu",
+    "type": "Leader",
+    "cost": 0,
+    "power": 5000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "?"
+    ],
+    "attributes": [
+      "card.attribute.?"
+    ]
+  },
+  "OP13-080": {
+    "id": "OP13-080",
+    "face": {
+      "front": {
+        "name": "St. Ethanbaron V. Nusjuro",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-080.png?240419"
+      }
+    },
+    "name": "St. Ethanbaron V. Nusjuro",
+    "type": "Character",
+    "cost": 6,
+    "power": 5000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-081": {
+    "id": "OP13-081",
+    "face": {
+      "front": {
+        "name": "Koala",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-081.png?240419"
+      }
+    },
+    "name": "Koala",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-082": {
+    "id": "OP13-082",
+    "face": {
+      "front": {
+        "name": "Five Elders",
+        "type": "Character",
+        "cost": 10,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-082.png?240419"
+      }
+    },
+    "name": "Five Elders",
+    "type": "Character",
+    "cost": 10,
+    "power": 12000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "attributes": [
+      "Slash",
+      "Special"
+    ]
+  },
+  "OP13-083": {
+    "id": "OP13-083",
+    "face": {
+      "front": {
+        "name": "St. Jaygarcia Saturn",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-083.png?240419"
+      }
+    },
+    "name": "St. Jaygarcia Saturn",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-084": {
+    "id": "OP13-084",
+    "face": {
+      "front": {
+        "name": "St. Shepherd Ju Peter",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-084.png?240419"
+      }
+    },
+    "name": "St. Shepherd Ju Peter",
+    "type": "Character",
+    "cost": 7,
+    "power": 5000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-085": {
+    "id": "OP13-085",
+    "face": {
+      "front": {
+        "name": "Saint Jalmac",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-085.png?240419"
+      }
+    },
+    "name": "Saint Jalmac",
+    "type": "Character",
+    "cost": 2,
+    "power": 4000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Celestial Dragons"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "OP13-086": {
+    "id": "OP13-086",
+    "face": {
+      "front": {
+        "name": "Saint Shalria",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-086.png?240419"
+      }
+    },
+    "name": "Saint Shalria",
+    "type": "Character",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Celestial Dragons"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "OP13-087": {
+    "id": "OP13-087",
+    "face": {
+      "front": {
+        "name": "Saint Charlos",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-087.png?240419"
+      }
+    },
+    "name": "Saint Charlos",
+    "type": "Character",
+    "cost": 2,
+    "power": 0,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Celestial Dragons"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "OP13-088": {
+    "id": "OP13-088",
+    "face": {
+      "front": {
+        "name": "Terry Gilteo",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-088.png?240419"
+      }
+    },
+    "name": "Terry Gilteo",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Revolutionary Army"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-089": {
+    "id": "OP13-089",
+    "face": {
+      "front": {
+        "name": "St. Topman Warcury",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-089.png?240419"
+      }
+    },
+    "name": "St. Topman Warcury",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-090": {
+    "id": "OP13-090",
+    "face": {
+      "front": {
+        "name": "Hack",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-090.png?240419"
+      }
+    },
+    "name": "Hack",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-091": {
+    "id": "OP13-091",
+    "face": {
+      "front": {
+        "name": "St. Marcus Mars",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-091.png?240419"
+      }
+    },
+    "name": "St. Marcus Mars",
+    "type": "Character",
+    "cost": 6,
+    "power": 5000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Celestial Dragons",
+      "Five Elders"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-092": {
+    "id": "OP13-092",
+    "face": {
+      "front": {
+        "name": "Saint Mjosgard",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-092.png?240419"
+      }
+    },
+    "name": "Saint Mjosgard",
+    "type": "Character",
+    "cost": 2,
+    "power": 0,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Celestial Dragons"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-093": {
+    "id": "OP13-093",
+    "face": {
+      "front": {
+        "name": "Morgans",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-093.png?240419"
+      }
+    },
+    "name": "Morgans",
+    "type": "Character",
+    "cost": 3,
+    "power": 4000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Journalist"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-094": {
+    "id": "OP13-094",
+    "face": {
+      "front": {
+        "name": "York",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-094.png?240419"
+      }
+    },
+    "name": "York",
+    "type": "Character",
+    "cost": 1,
+    "power": 1000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Egghead",
+      "Scientist"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-095": {
+    "id": "OP13-095",
+    "face": {
+      "front": {
+        "name": "Saint Rosward",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-095.png?240419"
+      }
+    },
+    "name": "Saint Rosward",
+    "type": "Character",
+    "cost": 3,
+    "power": 0,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Celestial Dragons"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "OP13-096": {
+    "id": "OP13-096",
+    "face": {
+      "front": {
+        "name": "The Five Elders Are at Your Service!!!",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-096.png?240419"
+      }
+    },
+    "name": "The Five Elders Are at Your Service!!!",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-097": {
+    "id": "OP13-097",
+    "face": {
+      "front": {
+        "name": "The World's Equilibrium Cannot Be Maintained Forever",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-097.png?240419"
+      }
+    },
+    "name": "The World's Equilibrium Cannot Be Maintained Forever",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-098": {
+    "id": "OP13-098",
+    "face": {
+      "front": {
+        "name": "Never Existed... in the First Place...",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-098.png?240419"
+      }
+    },
+    "name": "Never Existed... in the First Place...",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-099": {
+    "id": "OP13-099",
+    "face": {
+      "front": {
+        "name": "The Empty Throne",
+        "type": "Stage",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-099.png?240419"
+      }
+    },
+    "name": "The Empty Throne",
+    "type": "Stage",
+    "cost": 7,
+    "power": 0,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-100": {
+    "id": "OP13-100",
+    "face": {
+      "front": {
+        "name": "Jewelry Bonney",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-100.png?240419"
+      }
+    },
+    "name": "Jewelry Bonney",
+    "type": "Leader",
+    "cost": 0,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Egghead",
+      "Bonney Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-101": {
+    "id": "OP13-101",
+    "face": {
+      "front": {
+        "name": "Atlas",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-101.png?240419"
+      }
+    },
+    "name": "Atlas",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Egghead",
+      "Scientist"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-102": {
+    "id": "OP13-102",
+    "face": {
+      "front": {
+        "name": "Edison",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-102.png?240419"
+      }
+    },
+    "name": "Edison",
+    "type": "Character",
+    "cost": 3,
+    "power": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Egghead",
+      "Scientist"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-103": {
+    "id": "OP13-103",
+    "face": {
+      "front": {
+        "name": "Gyogyo",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-103.png?240419"
+      }
+    },
+    "name": "Gyogyo",
+    "type": "Character",
+    "cost": 4,
+    "power": 6000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Bonney Pirates"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-104": {
+    "id": "OP13-104",
+    "face": {
+      "front": {
+        "name": "Kouzuki Hiyori",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-104.png?240419"
+      }
+    },
+    "name": "Kouzuki Hiyori",
+    "type": "Character",
+    "cost": 4,
+    "power": 0,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-105": {
+    "id": "OP13-105",
+    "face": {
+      "front": {
+        "name": "Kouzuki Momonosuke",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-105.png?240419"
+      }
+    },
+    "name": "Kouzuki Momonosuke",
+    "type": "Character",
+    "cost": 3,
+    "power": 0,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP13-106": {
+    "id": "OP13-106",
+    "face": {
+      "front": {
+        "name": "Conney",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-106.png?240419"
+      }
+    },
+    "name": "Conney",
+    "type": "Character",
+    "cost": 1,
+    "power": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Bonney Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-107": {
+    "id": "OP13-107",
+    "face": {
+      "front": {
+        "name": "Shaka",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-107.png?240419"
+      }
+    },
+    "name": "Shaka",
+    "type": "Character",
+    "cost": 5,
+    "power": 7000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Egghead",
+      "Scientist"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-108": {
+    "id": "OP13-108",
+    "face": {
+      "front": {
+        "name": "Jewelry Bonney",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-108.png?240419"
+      }
+    },
+    "name": "Jewelry Bonney",
+    "type": "Character",
+    "cost": 9,
+    "power": 10000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Egghead",
+      "Bonney Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-109": {
+    "id": "OP13-109",
+    "face": {
+      "front": {
+        "name": "Jewelry Bonney",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-109.png?240419"
+      }
+    },
+    "name": "Jewelry Bonney",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Supernovas",
+      "Bonney Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-110": {
+    "id": "OP13-110",
+    "face": {
+      "front": {
+        "name": "Stussy",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-110.png?240419"
+      }
+    },
+    "name": "Stussy",
+    "type": "Character",
+    "cost": 7,
+    "power": 7000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Egghead",
+      "CP0"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-111": {
+    "id": "OP13-111",
+    "face": {
+      "front": {
+        "name": "Pythagoras",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-111.png?240419"
+      }
+    },
+    "name": "Pythagoras",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Egghead",
+      "Scientist"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-112": {
+    "id": "OP13-112",
+    "face": {
+      "front": {
+        "name": "Vegapunk",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-112.png?240419"
+      }
+    },
+    "name": "Vegapunk",
+    "type": "Character",
+    "cost": 1,
+    "power": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Egghead",
+      "Scientist"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-113": {
+    "id": "OP13-113",
+    "face": {
+      "front": {
+        "name": "Lilith",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-113.png?240419"
+      }
+    },
+    "name": "Lilith",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Egghead",
+      "Scientist"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP13-114": {
+    "id": "OP13-114",
+    "face": {
+      "front": {
+        "name": "S-Snake",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-114.png?240419"
+      }
+    },
+    "name": "S-Snake",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Seraphim",
+      "Egghead"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-115": {
+    "id": "OP13-115",
+    "face": {
+      "front": {
+        "name": "Paper Art Afterimage",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-115.png?240419"
+      }
+    },
+    "name": "Paper Art Afterimage",
+    "type": "Event",
+    "cost": 2,
+    "power": 0,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-116": {
+    "id": "OP13-116",
+    "face": {
+      "front": {
+        "name": "The One Who Is the Most Free Is the Pirate King!!!",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-116.png?240419"
+      }
+    },
+    "name": "The One Who Is the Most Free Is the Pirate King!!!",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-117": {
+    "id": "OP13-117",
+    "face": {
+      "front": {
+        "name": "Gum-Gum Dawn Stamp",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-117.png?240419"
+      }
+    },
+    "name": "Gum-Gum Dawn Stamp",
+    "type": "Event",
+    "cost": 5,
+    "power": 0,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP13-118": {
+    "id": "OP13-118",
+    "face": {
+      "front": {
+        "name": "Monkey.D.Luffy",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-118.png?240419"
+      }
+    },
+    "name": "Monkey.D.Luffy",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Fish-Man Island",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP13-119": {
+    "id": "OP13-119",
+    "face": {
+      "front": {
+        "name": "Portgas.D.Ace",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-119.png?240419"
+      }
+    },
+    "name": "Portgas.D.Ace",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP13-120": {
+    "id": "OP13-120",
+    "face": {
+      "front": {
+        "name": "Sabo",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-120.png?240419"
+      }
+    },
+    "name": "Sabo",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Dressrosa",
+      "Revolutionary Army"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-001": {
+    "id": "OP14-001",
+    "face": {
+      "front": {
+        "name": "Trafalgar Law",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-001.png?240419"
+      }
+    },
+    "name": "Trafalgar Law",
+    "type": "Leader",
+    "cost": 0,
+    "power": 5000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-002": {
+    "id": "OP14-002",
+    "face": {
+      "front": {
+        "name": "Urouge",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-002.png?240419"
+      }
+    },
+    "name": "Urouge",
+    "type": "Character",
+    "cost": 3,
+    "power": 2000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Supernovas",
+      "Fallen Monk Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-003": {
+    "id": "OP14-003",
+    "face": {
+      "front": {
+        "name": "Capone\"Gang\"Bege",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-003.png?240419"
+      }
+    },
+    "name": "Capone\"Gang\"Bege",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Supernovas",
+      "Firetank Pirates"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "OP14-004": {
+    "id": "OP14-004",
+    "face": {
+      "front": {
+        "name": "Cavendish",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-004.png?240419"
+      }
+    },
+    "name": "Cavendish",
+    "type": "Character",
+    "cost": 2,
+    "power": 2000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Dressrosa",
+      "Supernovas",
+      "Beautiful Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-005": {
+    "id": "OP14-005",
+    "face": {
+      "front": {
+        "name": "Killer",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-005.png?240419"
+      }
+    },
+    "name": "Killer",
+    "type": "Character",
+    "cost": 1,
+    "power": 1000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-006": {
+    "id": "OP14-006",
+    "face": {
+      "front": {
+        "name": "Shachi & Penguin",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-006.png?240419"
+      }
+    },
+    "name": "Shachi & Penguin",
+    "type": "Character",
+    "cost": 2,
+    "power": 2000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Heart Pirates"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "OP14-007": {
+    "id": "OP14-007",
+    "face": {
+      "front": {
+        "name": "Jewelry Bonney",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-007.png?240419"
+      }
+    },
+    "name": "Jewelry Bonney",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Supernovas",
+      "Bonney Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-008": {
+    "id": "OP14-008",
+    "face": {
+      "front": {
+        "name": "Scratchmen Apoo",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-008.png?240419"
+      }
+    },
+    "name": "Scratchmen Apoo",
+    "type": "Character",
+    "cost": 3,
+    "power": 5000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Supernovas",
+      "On-Air Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-009": {
+    "id": "OP14-009",
+    "face": {
+      "front": {
+        "name": "Trafalgar Law",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-009.png?240419"
+      }
+    },
+    "name": "Trafalgar Law",
+    "type": "Character",
+    "cost": 9,
+    "power": 10000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea",
+      "Supernovas",
+      "Heart Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-010": {
+    "id": "OP14-010",
+    "face": {
+      "front": {
+        "name": "Basil Hawkins",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-010.png?240419"
+      }
+    },
+    "name": "Basil Hawkins",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Supernovas",
+      "Hawkins Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-011": {
+    "id": "OP14-011",
+    "face": {
+      "front": {
+        "name": "Bartolomeo",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-011.png?240419"
+      }
+    },
+    "name": "Bartolomeo",
+    "type": "Character",
+    "cost": 2,
+    "power": 2000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Dressrosa",
+      "Supernovas",
+      "Barto Club"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-012": {
+    "id": "OP14-012",
+    "face": {
+      "front": {
+        "name": "Bepo",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-012.png?240419"
+      }
+    },
+    "name": "Bepo",
+    "type": "Character",
+    "cost": 2,
+    "power": 2000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Minks",
+      "Heart Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-013": {
+    "id": "OP14-013",
+    "face": {
+      "front": {
+        "name": "Monkey.D.Luffy",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-013.png?240419"
+      }
+    },
+    "name": "Monkey.D.Luffy",
+    "type": "Character",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-014": {
+    "id": "OP14-014",
+    "face": {
+      "front": {
+        "name": "Eustass\"Captain\"Kid",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-014.png?240419"
+      }
+    },
+    "name": "Eustass\"Captain\"Kid",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-015": {
+    "id": "OP14-015",
+    "face": {
+      "front": {
+        "name": "Roronoa Zoro",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-015.png?240419"
+      }
+    },
+    "name": "Roronoa Zoro",
+    "type": "Character",
+    "cost": 7,
+    "power": 8000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-016": {
+    "id": "OP14-016",
+    "face": {
+      "front": {
+        "name": "X.Drake",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-016.png?240419"
+      }
+    },
+    "name": "X.Drake",
+    "type": "Character",
+    "cost": 5,
+    "power": 7000,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [
+      "Supernovas",
+      "Navy",
+      "Drake Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-017": {
+    "id": "OP14-017",
+    "face": {
+      "front": {
+        "name": "Chambres",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-017.png?240419"
+      }
+    },
+    "name": "Chambres",
+    "type": "Event",
+    "cost": 3,
+    "power": 0,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-018": {
+    "id": "OP14-018",
+    "face": {
+      "front": {
+        "name": "Time for the Counterattack",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-018.png?240419"
+      }
+    },
+    "name": "Time for the Counterattack",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-019": {
+    "id": "OP14-019",
+    "face": {
+      "front": {
+        "name": "I Have a Plan to Take Down One of the Four Emperors!!",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-019.png?240419"
+      }
+    },
+    "name": "I Have a Plan to Take Down One of the Four Emperors!!",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Red"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-020": {
+    "id": "OP14-020",
+    "face": {
+      "front": {
+        "name": "Dracule Mihawk",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-020.png?240419"
+      }
+    },
+    "name": "Dracule Mihawk",
+    "type": "Leader",
+    "cost": 0,
+    "power": 5000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-021": {
+    "id": "OP14-021",
+    "face": {
+      "front": {
+        "name": "Issho",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-021.png?240419"
+      }
+    },
+    "name": "Issho",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Dressrosa",
+      "Navy"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-022": {
+    "id": "OP14-022",
+    "face": {
+      "front": {
+        "name": "Usopp",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-022.png?240419"
+      }
+    },
+    "name": "Usopp",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "OP14-023": {
+    "id": "OP14-023",
+    "face": {
+      "front": {
+        "name": "Kikunojo",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-023.png?240419"
+      }
+    },
+    "name": "Kikunojo",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-024": {
+    "id": "OP14-024",
+    "face": {
+      "front": {
+        "name": "Kin'emon",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-024.png?240419"
+      }
+    },
+    "name": "Kin'emon",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-025": {
+    "id": "OP14-025",
+    "face": {
+      "front": {
+        "name": "Kuro",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-025.png?240419"
+      }
+    },
+    "name": "Kuro",
+    "type": "Character",
+    "cost": 7,
+    "power": 8000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "East Blue",
+      "Black Cat Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-026": {
+    "id": "OP14-026",
+    "face": {
+      "front": {
+        "name": "Kouzuki Oden",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-026.png?240419"
+      }
+    },
+    "name": "Kouzuki Oden",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-027": {
+    "id": "OP14-027",
+    "face": {
+      "front": {
+        "name": "Shanks",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-027.png?240419"
+      }
+    },
+    "name": "Shanks",
+    "type": "Character",
+    "cost": 7,
+    "power": 9000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "East Blue",
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-028": {
+    "id": "OP14-028",
+    "face": {
+      "front": {
+        "name": "Johnny",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-028.png?240419"
+      }
+    },
+    "name": "Johnny",
+    "type": "Character",
+    "cost": 2,
+    "power": 2000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "East Blue"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-029": {
+    "id": "OP14-029",
+    "face": {
+      "front": {
+        "name": "Tashigi",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-029.png?240419"
+      }
+    },
+    "name": "Tashigi",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Navy"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-030": {
+    "id": "OP14-030",
+    "face": {
+      "front": {
+        "name": "Chaka & Pell",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-030.png?240419"
+      }
+    },
+    "name": "Chaka & Pell",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Alabasta"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-031": {
+    "id": "OP14-031",
+    "face": {
+      "front": {
+        "name": "Nami",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-031.png?240419"
+      }
+    },
+    "name": "Nami",
+    "type": "Character",
+    "cost": 4,
+    "power": 2000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-032": {
+    "id": "OP14-032",
+    "face": {
+      "front": {
+        "name": "Humandrill",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-032.png?240419"
+      }
+    },
+    "name": "Humandrill",
+    "type": "Character",
+    "cost": 3,
+    "power": 4000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Animal",
+      "Muggy Kingdom"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-033": {
+    "id": "OP14-033",
+    "face": {
+      "front": {
+        "name": "Perona",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-033.png?240419"
+      }
+    },
+    "name": "Perona",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Muggy Kingdom",
+      "Thriller Bark Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-034": {
+    "id": "OP14-034",
+    "face": {
+      "front": {
+        "name": "Monkey.D.Luffy",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-034.png?240419"
+      }
+    },
+    "name": "Monkey.D.Luffy",
+    "type": "Character",
+    "cost": 3,
+    "power": 3000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "FILM",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-035": {
+    "id": "OP14-035",
+    "face": {
+      "front": {
+        "name": "Yosaku",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-035.png?240419"
+      }
+    },
+    "name": "Yosaku",
+    "type": "Character",
+    "cost": 2,
+    "power": 2000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "East Blue"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-036": {
+    "id": "OP14-036",
+    "face": {
+      "front": {
+        "name": "Strive to Surpass me, Roronoa Zoro!!!",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-036.png?240419"
+      }
+    },
+    "name": "Strive to Surpass me, Roronoa Zoro!!!",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-037": {
+    "id": "OP14-037",
+    "face": {
+      "front": {
+        "name": "For Fun",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-037.png?240419"
+      }
+    },
+    "name": "For Fun",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-038": {
+    "id": "OP14-038",
+    "face": {
+      "front": {
+        "name": "I Never Bother to Remember the Faces of Trash",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-038.png?240419"
+      }
+    },
+    "name": "I Never Bother to Remember the Faces of Trash",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-039": {
+    "id": "OP14-039",
+    "face": {
+      "front": {
+        "name": "Coffin Boat",
+        "type": "Stage",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-039.png?240419"
+      }
+    },
+    "name": "Coffin Boat",
+    "type": "Stage",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-040": {
+    "id": "OP14-040",
+    "face": {
+      "front": {
+        "name": "Jinbe",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-040.png?240419"
+      }
+    },
+    "name": "Jinbe",
+    "type": "Leader",
+    "cost": 0,
+    "power": 5000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "The Seven Warlords of the Sea",
+      "The Sun Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-041": {
+    "id": "OP14-041",
+    "face": {
+      "front": {
+        "name": "Boa Hancock",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-041.png?240419"
+      }
+    },
+    "name": "Boa Hancock",
+    "type": "Leader",
+    "cost": 0,
+    "power": 5000,
+    "colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-042": {
+    "id": "OP14-042",
+    "face": {
+      "front": {
+        "name": "Arlong",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-042.png?240419"
+      }
+    },
+    "name": "Arlong",
+    "type": "Character",
+    "cost": 1,
+    "power": 3000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-043": {
+    "id": "OP14-043",
+    "face": {
+      "front": {
+        "name": "Aladine",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-043.png?240419"
+      }
+    },
+    "name": "Aladine",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Merfolk",
+      "The Sun Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-044": {
+    "id": "OP14-044",
+    "face": {
+      "front": {
+        "name": "Edward.Newgate",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-044.png?240419"
+      }
+    },
+    "name": "Edward.Newgate",
+    "type": "Character",
+    "cost": 8,
+    "power": 8000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "The Four Emperors",
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-045": {
+    "id": "OP14-045",
+    "face": {
+      "front": {
+        "name": "Kuroobi",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-045.png?240419"
+      }
+    },
+    "name": "Kuroobi",
+    "type": "Character",
+    "cost": 3,
+    "power": 3000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-046": {
+    "id": "OP14-046",
+    "face": {
+      "front": {
+        "name": "Koala",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-046.png?240419"
+      }
+    },
+    "name": "Koala",
+    "type": "Character",
+    "cost": 2,
+    "power": 0,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Foolshout Island"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP14-047": {
+    "id": "OP14-047",
+    "face": {
+      "front": {
+        "name": "Shirahoshi",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-047.png?240419"
+      }
+    },
+    "name": "Shirahoshi",
+    "type": "Character",
+    "cost": 4,
+    "power": 0,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Merfolk",
+      "Fish-Man Island"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP14-048": {
+    "id": "OP14-048",
+    "face": {
+      "front": {
+        "name": "Shiryu",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-048.png?240419"
+      }
+    },
+    "name": "Shiryu",
+    "type": "Character",
+    "cost": 8,
+    "power": 10000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Impel Down"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-049": {
+    "id": "OP14-049",
+    "face": {
+      "front": {
+        "name": "Jinbe",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-049.png?240419"
+      }
+    },
+    "name": "Jinbe",
+    "type": "Character",
+    "cost": 8,
+    "power": 10000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "The Seven Warlords of the Sea",
+      "The Sun Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-050": {
+    "id": "OP14-050",
+    "face": {
+      "front": {
+        "name": "Chew",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-050.png?240419"
+      }
+    },
+    "name": "Chew",
+    "type": "Character",
+    "cost": 1,
+    "power": 3000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "OP14-051": {
+    "id": "OP14-051",
+    "face": {
+      "front": {
+        "name": "Hatchan",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-051.png?240419"
+      }
+    },
+    "name": "Hatchan",
+    "type": "Character",
+    "cost": 1,
+    "power": 3000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-052": {
+    "id": "OP14-052",
+    "face": {
+      "front": {
+        "name": "Hannyabal",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-052.png?240419"
+      }
+    },
+    "name": "Hannyabal",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Impel Down"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-053": {
+    "id": "OP14-053",
+    "face": {
+      "front": {
+        "name": "Vista",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-053.png?240419"
+      }
+    },
+    "name": "Vista",
+    "type": "Character",
+    "cost": 3,
+    "power": 4000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Whitebeard Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-054": {
+    "id": "OP14-054",
+    "face": {
+      "front": {
+        "name": "Fisher Tiger",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-054.png?240419"
+      }
+    },
+    "name": "Fisher Tiger",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-055": {
+    "id": "OP14-055",
+    "face": {
+      "front": {
+        "name": "The Macro Gang",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-055.png?240419"
+      }
+    },
+    "name": "The Macro Gang",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-056": {
+    "id": "OP14-056",
+    "face": {
+      "front": {
+        "name": "Wadatsumi",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-056.png?240419"
+      }
+    },
+    "name": "Wadatsumi",
+    "type": "Character",
+    "cost": 3,
+    "power": 5000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "The Sun Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-057": {
+    "id": "OP14-057",
+    "face": {
+      "front": {
+        "name": "Don't Worry!! I'm Here!!",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-057.png?240419"
+      }
+    },
+    "name": "Don't Worry!! I'm Here!!",
+    "type": "Event",
+    "cost": 2,
+    "power": 0,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-058": {
+    "id": "OP14-058",
+    "face": {
+      "front": {
+        "name": "Ocean Current Shoulder Throw",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-058.png?240419"
+      }
+    },
+    "name": "Ocean Current Shoulder Throw",
+    "type": "Event",
+    "cost": 2,
+    "power": 0,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-059": {
+    "id": "OP14-059",
+    "face": {
+      "front": {
+        "name": "Please Take Me with You!! I Can Be of Great Help to You!!",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-059.png?240419"
+      }
+    },
+    "name": "Please Take Me with You!! I Can Be of Great Help to You!!",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-060": {
+    "id": "OP14-060",
+    "face": {
+      "front": {
+        "name": "Donquixote Doflamingo",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-060.png?240419"
+      }
+    },
+    "name": "Donquixote Doflamingo",
+    "type": "Leader",
+    "cost": 0,
+    "power": 5000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-061": {
+    "id": "OP14-061",
+    "face": {
+      "front": {
+        "name": "Vergo",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-061.png?240419"
+      }
+    },
+    "name": "Vergo",
+    "type": "Character",
+    "cost": 5,
+    "power": 7000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Punk Hazard",
+      "Navy",
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-062": {
+    "id": "OP14-062",
+    "face": {
+      "front": {
+        "name": "Gladius",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-062.png?240419"
+      }
+    },
+    "name": "Gladius",
+    "type": "Character",
+    "cost": 3,
+    "power": 4000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-063": {
+    "id": "OP14-063",
+    "face": {
+      "front": {
+        "name": "Sugar",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-063.png?240419"
+      }
+    },
+    "name": "Sugar",
+    "type": "Character",
+    "cost": 4,
+    "power": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-064": {
+    "id": "OP14-064",
+    "face": {
+      "front": {
+        "name": "Giolla",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-064.png?240419"
+      }
+    },
+    "name": "Giolla",
+    "type": "Character",
+    "cost": 3,
+    "power": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-065": {
+    "id": "OP14-065",
+    "face": {
+      "front": {
+        "name": "Senor Pink",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-065.png?240419"
+      }
+    },
+    "name": "Senor Pink",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-066": {
+    "id": "OP14-066",
+    "face": {
+      "front": {
+        "name": "Diamante",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-066.png?240419"
+      }
+    },
+    "name": "Diamante",
+    "type": "Character",
+    "cost": 6,
+    "power": 8000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-067": {
+    "id": "OP14-067",
+    "face": {
+      "front": {
+        "name": "Dellinger",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-067.png?240419"
+      }
+    },
+    "name": "Dellinger",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-068": {
+    "id": "OP14-068",
+    "face": {
+      "front": {
+        "name": "Trebol",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-068.png?240419"
+      }
+    },
+    "name": "Trebol",
+    "type": "Character",
+    "cost": 5,
+    "power": 5000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-069": {
+    "id": "OP14-069",
+    "face": {
+      "front": {
+        "name": "Donquixote Doflamingo",
+        "type": "Character",
+        "cost": 10,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-069.png?240419"
+      }
+    },
+    "name": "Donquixote Doflamingo",
+    "type": "Character",
+    "cost": 10,
+    "power": 10000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-070": {
+    "id": "OP14-070",
+    "face": {
+      "front": {
+        "name": "Buffalo",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-070.png?240419"
+      }
+    },
+    "name": "Buffalo",
+    "type": "Character",
+    "cost": 2,
+    "power": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-071": {
+    "id": "OP14-071",
+    "face": {
+      "front": {
+        "name": "Pica",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-071.png?240419"
+      }
+    },
+    "name": "Pica",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-072": {
+    "id": "OP14-072",
+    "face": {
+      "front": {
+        "name": "Baby 5",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-072.png?240419"
+      }
+    },
+    "name": "Baby 5",
+    "type": "Character",
+    "cost": 4,
+    "power": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-073": {
+    "id": "OP14-073",
+    "face": {
+      "front": {
+        "name": "Machvise",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-073.png?240419"
+      }
+    },
+    "name": "Machvise",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-074": {
+    "id": "OP14-074",
+    "face": {
+      "front": {
+        "name": "Monet",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-074.png?240419"
+      }
+    },
+    "name": "Monet",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Punk Hazard",
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-075": {
+    "id": "OP14-075",
+    "face": {
+      "front": {
+        "name": "Lao.G",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-075.png?240419"
+      }
+    },
+    "name": "Lao.G",
+    "type": "Character",
+    "cost": 3,
+    "power": 4000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-076": {
+    "id": "OP14-076",
+    "face": {
+      "front": {
+        "name": "Ever White",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-076.png?240419"
+      }
+    },
+    "name": "Ever White",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-077": {
+    "id": "OP14-077",
+    "face": {
+      "front": {
+        "name": "Penta-Chromatic String",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-077.png?240419"
+      }
+    },
+    "name": "Penta-Chromatic String",
+    "type": "Event",
+    "cost": 2,
+    "power": 0,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-078": {
+    "id": "OP14-078",
+    "face": {
+      "front": {
+        "name": "Bullet String",
+        "type": "Event",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-078.png?240419"
+      }
+    },
+    "name": "Bullet String",
+    "type": "Event",
+    "cost": 2,
+    "power": 0,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-079": {
+    "id": "OP14-079",
+    "face": {
+      "front": {
+        "name": "Crocodile",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-079.png?240419"
+      }
+    },
+    "name": "Crocodile",
+    "type": "Leader",
+    "cost": 0,
+    "power": 5000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-080": {
+    "id": "OP14-080",
+    "face": {
+      "front": {
+        "name": "Gecko Moria",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-080.png?240419"
+      }
+    },
+    "name": "Gecko Moria",
+    "type": "Leader",
+    "cost": 0,
+    "power": 5000,
+    "colors": [
+      "Black",
+      "Yellow"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea",
+      "Thriller Bark Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-081": {
+    "id": "OP14-081",
+    "face": {
+      "front": {
+        "name": "Spider Mice",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-081.png?240419"
+      }
+    },
+    "name": "Spider Mice",
+    "type": "Character",
+    "cost": 1,
+    "power": 1000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Thriller Bark Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-082": {
+    "id": "OP14-082",
+    "face": {
+      "front": {
+        "name": "Oinkchuck",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-082.png?240419"
+      }
+    },
+    "name": "Oinkchuck",
+    "type": "Character",
+    "cost": 2,
+    "power": 3000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Thriller Bark Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-083": {
+    "id": "OP14-083",
+    "face": {
+      "front": {
+        "name": "Ms. Wednesday",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-083.png?240419"
+      }
+    },
+    "name": "Ms. Wednesday",
+    "type": "Character",
+    "cost": 1,
+    "power": 1000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-084": {
+    "id": "OP14-084",
+    "face": {
+      "front": {
+        "name": "Ms. All Sunday",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-084.png?240419"
+      }
+    },
+    "name": "Ms. All Sunday",
+    "type": "Character",
+    "cost": 7,
+    "power": 8000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-085": {
+    "id": "OP14-085",
+    "face": {
+      "front": {
+        "name": "Miss.Goldenweek(Marianne)",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-085.png?240419"
+      }
+    },
+    "name": "Miss.Goldenweek(Marianne)",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP14-086": {
+    "id": "OP14-086",
+    "face": {
+      "front": {
+        "name": "Miss Doublefinger(Zala)",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-086.png?240419"
+      }
+    },
+    "name": "Miss Doublefinger(Zala)",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-087": {
+    "id": "OP14-087",
+    "face": {
+      "front": {
+        "name": "Miss.Valentine(Mikita)",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-087.png?240419"
+      }
+    },
+    "name": "Miss.Valentine(Mikita)",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-088": {
+    "id": "OP14-088",
+    "face": {
+      "front": {
+        "name": "Miss.MerryChristmas(Drophy)",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-088.png?240419"
+      }
+    },
+    "name": "Miss.MerryChristmas(Drophy)",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-089": {
+    "id": "OP14-089",
+    "face": {
+      "front": {
+        "name": "Ryuma",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-089.png?240419"
+      }
+    },
+    "name": "Ryuma",
+    "type": "Character",
+    "cost": 3,
+    "power": 5000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Land of Wano",
+      "Thriller Bark Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-090": {
+    "id": "OP14-090",
+    "face": {
+      "front": {
+        "name": "Mr.1(Daz.Bonez)",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-090.png?240419"
+      }
+    },
+    "name": "Mr.1(Daz.Bonez)",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-091": {
+    "id": "OP14-091",
+    "face": {
+      "front": {
+        "name": "Mr.2.Bon.Kurei(Bentham)",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-091.png?240419"
+      }
+    },
+    "name": "Mr.2.Bon.Kurei(Bentham)",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-092": {
+    "id": "OP14-092",
+    "face": {
+      "front": {
+        "name": "Mr.3(Galdino)",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-092.png?240419"
+      }
+    },
+    "name": "Mr.3(Galdino)",
+    "type": "Character",
+    "cost": 4,
+    "power": 6000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-093": {
+    "id": "OP14-093",
+    "face": {
+      "front": {
+        "name": "Mr.4(Babe)",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-093.png?240419"
+      }
+    },
+    "name": "Mr.4(Babe)",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-094": {
+    "id": "OP14-094",
+    "face": {
+      "front": {
+        "name": "Mr.5(Gem)",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-094.png?240419"
+      }
+    },
+    "name": "Mr.5(Gem)",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-095": {
+    "id": "OP14-095",
+    "face": {
+      "front": {
+        "name": "Mr.9",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-095.png?240419"
+      }
+    },
+    "name": "Mr.9",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-096": {
+    "id": "OP14-096",
+    "face": {
+      "front": {
+        "name": "Ground Death",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-096.png?240419"
+      }
+    },
+    "name": "Ground Death",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-097": {
+    "id": "OP14-097",
+    "face": {
+      "front": {
+        "name": "Hurry Up and Make Me the Pirate King!",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-097.png?240419"
+      }
+    },
+    "name": "Hurry Up and Make Me the Pirate King!",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-098": {
+    "id": "OP14-098",
+    "face": {
+      "front": {
+        "name": "Crescent Cutlass",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-098.png?240419"
+      }
+    },
+    "name": "Crescent Cutlass",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-099": {
+    "id": "OP14-099",
+    "face": {
+      "front": {
+        "name": "Disappointed?",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-099.png?240419"
+      }
+    },
+    "name": "Disappointed?",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-100": {
+    "id": "OP14-100",
+    "face": {
+      "front": {
+        "name": "Absalom",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-100.png?240419"
+      }
+    },
+    "name": "Absalom",
+    "type": "Character",
+    "cost": 3,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Thriller Bark Pirates"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "OP14-101": {
+    "id": "OP14-101",
+    "face": {
+      "front": {
+        "name": "Oars",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-101.png?240419"
+      }
+    },
+    "name": "Oars",
+    "type": "Character",
+    "cost": 8,
+    "power": 10000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Giant",
+      "Thriller Bark Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-102": {
+    "id": "OP14-102",
+    "face": {
+      "front": {
+        "name": "Kumacy",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-102.png?240419"
+      }
+    },
+    "name": "Kumacy",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Thriller Bark Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-103": {
+    "id": "OP14-103",
+    "face": {
+      "front": {
+        "name": "Gloriosa (Grandma Nyon)",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-103.png?240419"
+      }
+    },
+    "name": "Gloriosa (Grandma Nyon)",
+    "type": "Character",
+    "cost": 2,
+    "power": 0,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Amazon Lily"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP14-104": {
+    "id": "OP14-104",
+    "face": {
+      "front": {
+        "name": "Gecko Moria",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-104.png?240419"
+      }
+    },
+    "name": "Gecko Moria",
+    "type": "Character",
+    "cost": 8,
+    "power": 10000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea",
+      "Thriller Bark Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-105": {
+    "id": "OP14-105",
+    "face": {
+      "front": {
+        "name": "Gorgon Sisters",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-105.png?240419"
+      }
+    },
+    "name": "Gorgon Sisters",
+    "type": "Character",
+    "cost": 6,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "attributes": [
+      "Slash",
+      "Special"
+    ]
+  },
+  "OP14-106": {
+    "id": "OP14-106",
+    "face": {
+      "front": {
+        "name": "Salome",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-106.png?240419"
+      }
+    },
+    "name": "Salome",
+    "type": "Character",
+    "cost": 3,
+    "power": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Animal",
+      "Amazon Lily"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "OP14-107": {
+    "id": "OP14-107",
+    "face": {
+      "front": {
+        "name": "Shakuyaku",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-107.png?240419"
+      }
+    },
+    "name": "Shakuyaku",
+    "type": "Character",
+    "cost": 6,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Amazon Lily"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP14-108": {
+    "id": "OP14-108",
+    "face": {
+      "front": {
+        "name": "Silvers Rayleigh",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-108.png?240419"
+      }
+    },
+    "name": "Silvers Rayleigh",
+    "type": "Character",
+    "cost": 6,
+    "power": 6000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Former Roger Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-109": {
+    "id": "OP14-109",
+    "face": {
+      "front": {
+        "name": "Victoria Cindry",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-109.png?240419"
+      }
+    },
+    "name": "Victoria Cindry",
+    "type": "Character",
+    "cost": 3,
+    "power": 1000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Thriller Bark Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-110": {
+    "id": "OP14-110",
+    "face": {
+      "front": {
+        "name": "Dr. Hogback",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-110.png?240419"
+      }
+    },
+    "name": "Dr. Hogback",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Thriller Bark Pirates"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP14-111": {
+    "id": "OP14-111",
+    "face": {
+      "front": {
+        "name": "Perona",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-111.png?240419"
+      }
+    },
+    "name": "Perona",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Thriller Bark Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-112": {
+    "id": "OP14-112",
+    "face": {
+      "front": {
+        "name": "Boa Hancock",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-112.png?240419"
+      }
+    },
+    "name": "Boa Hancock",
+    "type": "Character",
+    "cost": 9,
+    "power": 10000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "OP14-113": {
+    "id": "OP14-113",
+    "face": {
+      "front": {
+        "name": "Marguerite",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-113.png?240419"
+      }
+    },
+    "name": "Marguerite",
+    "type": "Character",
+    "cost": 3,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Amazon Lily"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "OP14-114": {
+    "id": "OP14-114",
+    "face": {
+      "front": {
+        "name": "Ran",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-114.png?240419"
+      }
+    },
+    "name": "Ran",
+    "type": "Character",
+    "cost": 4,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Kuja Pirates"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "OP14-115": {
+    "id": "OP14-115",
+    "face": {
+      "front": {
+        "name": "Rindo",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-115.png?240419"
+      }
+    },
+    "name": "Rindo",
+    "type": "Character",
+    "cost": 5,
+    "power": 5000,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [
+      "Kuja Pirates"
+    ],
+    "attributes": [
+      "Ranged"
+    ]
+  },
+  "OP14-116": {
+    "id": "OP14-116",
+    "face": {
+      "front": {
+        "name": "Salamander",
+        "type": "Event",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-116.png?240419"
+      }
+    },
+    "name": "Salamander",
+    "type": "Event",
+    "cost": 4,
+    "power": 0,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-117": {
+    "id": "OP14-117",
+    "face": {
+      "front": {
+        "name": "Brick Bat",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-117.png?240419"
+      }
+    },
+    "name": "Brick Bat",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-118": {
+    "id": "OP14-118",
+    "face": {
+      "front": {
+        "name": "You'll Frighten Me... ♡",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-118.png?240419"
+      }
+    },
+    "name": "You'll Frighten Me... ♡",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Yellow"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "OP14-119": {
+    "id": "OP14-119",
+    "face": {
+      "front": {
+        "name": "Dracule Mihawk",
+        "type": "Character",
+        "cost": 9,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-119.png?240419"
+      }
+    },
+    "name": "Dracule Mihawk",
+    "type": "Character",
+    "cost": 9,
+    "power": 10000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "OP14-120": {
+    "id": "OP14-120",
+    "face": {
+      "front": {
+        "name": "Crocodile",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP14-120.png?240419"
+      }
+    },
+    "name": "Crocodile",
+    "type": "Character",
+    "cost": 8,
+    "power": 10000,
+    "colors": [
+      "Black"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "EB04-011": {
+    "id": "EB04-011",
+    "face": {
+      "front": {
+        "name": "Scaled Neptunian",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-011.png?240419"
+      }
+    },
+    "name": "Scaled Neptunian",
+    "type": "Character",
+    "cost": 7,
+    "power": 8000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Neptunian"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "EB04-012": {
+    "id": "EB04-012",
+    "face": {
+      "front": {
+        "name": "Kikunojo",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-012.png?240419"
+      }
+    },
+    "name": "Kikunojo",
+    "type": "Character",
+    "cost": 7,
+    "power": 8000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Land of Wano",
+      "The Akazaya Nine"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "EB04-013": {
+    "id": "EB04-013",
+    "face": {
+      "front": {
+        "name": "Carrot",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-013.png?240419"
+      }
+    },
+    "name": "Carrot",
+    "type": "Character",
+    "cost": 8,
+    "power": 9000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Minks"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "EB04-014": {
+    "id": "EB04-014",
+    "face": {
+      "front": {
+        "name": "Kozuki Sukiyaki",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-014.png?240419"
+      }
+    },
+    "name": "Kozuki Sukiyaki",
+    "type": "Character",
+    "cost": 3,
+    "power": 0,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Land of Wano",
+      "Kouzuki Clan"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "EB04-015": {
+    "id": "EB04-015",
+    "face": {
+      "front": {
+        "name": "Jinbe",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-015.png?240419"
+      }
+    },
+    "name": "Jinbe",
+    "type": "Character",
+    "cost": 7,
+    "power": 8000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Fish-Man",
+      "Fish-Man Island",
+      "The Sun Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "EB04-016": {
+    "id": "EB04-016",
+    "face": {
+      "front": {
+        "name": "Bird Neptunian",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-016.png?240419"
+      }
+    },
+    "name": "Bird Neptunian",
+    "type": "Character",
+    "cost": 5,
+    "power": 7000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Neptunian"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "EB04-017": {
+    "id": "EB04-017",
+    "face": {
+      "front": {
+        "name": "Mystoms",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-017.png?240419"
+      }
+    },
+    "name": "Mystoms",
+    "type": "Character",
+    "cost": 6,
+    "power": 5000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Minks",
+      "Big Mom Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "EB04-018": {
+    "id": "EB04-018",
+    "face": {
+      "front": {
+        "name": "Megalo",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-018.png?240419"
+      }
+    },
+    "name": "Megalo",
+    "type": "Character",
+    "cost": 4,
+    "power": 4000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Animal",
+      "Fish-Man Island"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "EB04-019": {
+    "id": "EB04-019",
+    "face": {
+      "front": {
+        "name": "Eleclaw",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-019.png?240419"
+      }
+    },
+    "name": "Eleclaw",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "EB04-020": {
+    "id": "EB04-020",
+    "face": {
+      "front": {
+        "name": "Shark Brick Fist",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-020.png?240419"
+      }
+    },
+    "name": "Shark Brick Fist",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "EB04-021": {
+    "id": "EB04-021",
+    "face": {
+      "front": {
+        "name": "Igaram",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-021.png?240419"
+      }
+    },
+    "name": "Igaram",
+    "type": "Character",
+    "cost": 3,
+    "power": 4000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Alabasta"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "EB04-022": {
+    "id": "EB04-022",
+    "face": {
+      "front": {
+        "name": "Issho",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-022.png?240419"
+      }
+    },
+    "name": "Issho",
+    "type": "Character",
+    "cost": 5,
+    "power": 7000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Dressrosa",
+      "Navy"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "EB04-023": {
+    "id": "EB04-023",
+    "face": {
+      "front": {
+        "name": "Chaka & Pell",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-023.png?240419"
+      }
+    },
+    "name": "Chaka & Pell",
+    "type": "Character",
+    "cost": 8,
+    "power": 9000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Alabasta"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "EB04-024": {
+    "id": "EB04-024",
+    "face": {
+      "front": {
+        "name": "Terracotta",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-024.png?240419"
+      }
+    },
+    "name": "Terracotta",
+    "type": "Character",
+    "cost": 2,
+    "power": 0,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Alabasta"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "EB04-025": {
+    "id": "EB04-025",
+    "face": {
+      "front": {
+        "name": "Nefeltari Vivi",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-025.png?240419"
+      }
+    },
+    "name": "Nefeltari Vivi",
+    "type": "Character",
+    "cost": 7,
+    "power": 4000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Alabasta"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "EB04-026": {
+    "id": "EB04-026",
+    "face": {
+      "front": {
+        "name": "Bluegrass",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-026.png?240419"
+      }
+    },
+    "name": "Bluegrass",
+    "type": "Character",
+    "cost": 4,
+    "power": 6000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "Egghead",
+      "Navy"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "EB04-027": {
+    "id": "EB04-027",
+    "face": {
+      "front": {
+        "name": "Boa Hancock",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-027.png?240419"
+      }
+    },
+    "name": "Boa Hancock",
+    "type": "Character",
+    "cost": 5,
+    "power": 7000,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [
+      "The Seven Warlords of the Sea",
+      "Kuja Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "EB04-028": {
+    "id": "EB04-028",
+    "face": {
+      "front": {
+        "name": "Ice Time",
+        "type": "Event",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-028.png?240419"
+      }
+    },
+    "name": "Ice Time",
+    "type": "Event",
+    "cost": 5,
+    "power": 0,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "EB04-029": {
+    "id": "EB04-029",
+    "face": {
+      "front": {
+        "name": "I Heard the Sound...of a Lady's Teardrops Falling",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-029.png?240419"
+      }
+    },
+    "name": "I Heard the Sound...of a Lady's Teardrops Falling",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Blue"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "EB04-030": {
+    "id": "EB04-030",
+    "face": {
+      "front": {
+        "name": "Kaido",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-030.png?240419"
+      }
+    },
+    "name": "Kaido",
+    "type": "Character",
+    "cost": 7,
+    "power": 9000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "The Four Emperors",
+      "Animal Kingdom Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "EB04-031": {
+    "id": "EB04-031",
+    "face": {
+      "front": {
+        "name": "King",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-031.png?240419"
+      }
+    },
+    "name": "King",
+    "type": "Character",
+    "cost": 6,
+    "power": 7000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Lunarian",
+      "Animal Kingdom Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "EB04-032": {
+    "id": "EB04-032",
+    "face": {
+      "front": {
+        "name": "Queen",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-032.png?240419"
+      }
+    },
+    "name": "Queen",
+    "type": "Character",
+    "cost": 1,
+    "power": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Animal Kingdom Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "EB04-033": {
+    "id": "EB04-033",
+    "face": {
+      "front": {
+        "name": "Groggy Monsters",
+        "type": "Character",
+        "cost": 5,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-033.png?240419"
+      }
+    },
+    "name": "Groggy Monsters",
+    "type": "Character",
+    "cost": 5,
+    "power": 6000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Giant",
+      "Fish-Man",
+      "Foxy Pirates"
+    ],
+    "attributes": [
+      "Strike"
+    ]
+  },
+  "EB04-034": {
+    "id": "EB04-034",
+    "face": {
+      "front": {
+        "name": "Charlotte Pudding",
+        "type": "Character",
+        "cost": 2,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-034.png?240419"
+      }
+    },
+    "name": "Charlotte Pudding",
+    "type": "Character",
+    "cost": 2,
+    "power": 1000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Big Mom Pirates"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "EB04-035": {
+    "id": "EB04-035",
+    "face": {
+      "front": {
+        "name": "Hitokiri Kamazo",
+        "type": "Character",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-035.png?240419"
+      }
+    },
+    "name": "Hitokiri Kamazo",
+    "type": "Character",
+    "cost": 3,
+    "power": 4000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "SMILE",
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "attributes": [
+      "Slash"
+    ]
+  },
+  "EB04-036": {
+    "id": "EB04-036",
+    "face": {
+      "front": {
+        "name": "Foxy",
+        "type": "Character",
+        "cost": 8,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-036.png?240419"
+      }
+    },
+    "name": "Foxy",
+    "type": "Character",
+    "cost": 8,
+    "power": 9000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Foxy Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "EB04-037": {
+    "id": "EB04-037",
+    "face": {
+      "front": {
+        "name": "Porche",
+        "type": "Character",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-037.png?240419"
+      }
+    },
+    "name": "Porche",
+    "type": "Character",
+    "cost": 1,
+    "power": 2000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Foxy Pirates"
+    ],
+    "attributes": [
+      "Wisdom"
+    ]
+  },
+  "EB04-038": {
+    "id": "EB04-038",
+    "face": {
+      "front": {
+        "name": "Rosinante & Law",
+        "type": "Character",
+        "cost": 6,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-038.png?240419"
+      }
+    },
+    "name": "Rosinante & Law",
+    "type": "Character",
+    "cost": 6,
+    "power": 8000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Navy",
+      "Donquixote Pirates"
+    ],
+    "attributes": [
+      "Special",
+      "Wisdom"
+    ]
+  },
+  "EB04-039": {
+    "id": "EB04-039",
+    "face": {
+      "front": {
+        "name": "Eustass\"Captain\"Kid",
+        "type": "Character",
+        "cost": 7,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-039.png?240419"
+      }
+    },
+    "name": "Eustass\"Captain\"Kid",
+    "type": "Character",
+    "cost": 7,
+    "power": 8000,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [
+      "Supernovas",
+      "Kid Pirates"
+    ],
+    "attributes": [
+      "Special"
+    ]
+  },
+  "EB04-040": {
+    "id": "EB04-040",
+    "face": {
+      "front": {
+        "name": "Flame Dragon Torch",
+        "type": "Event",
+        "cost": 1,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-040.png?240419"
+      }
+    },
+    "name": "Flame Dragon Torch",
+    "type": "Event",
+    "cost": 1,
+    "power": 0,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "EB04-041": {
+    "id": "EB04-041",
+    "face": {
+      "front": {
+        "name": "Stealth Black",
+        "type": "Event",
+        "cost": 3,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/EB04-041.png?240419"
+      }
+    },
+    "name": "Stealth Black",
+    "type": "Event",
+    "cost": 3,
+    "power": 0,
+    "colors": [
+      "Purple"
+    ],
+    "subtype": [],
+    "attributes": []
+  },
+  "PRB02-006": {
+    "id": "PRB02-006",
+    "face": {
+      "front": {
+        "name": "Roronoa Zoro",
+        "type": "Character",
+        "cost": 4,
+        "image": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB02-006.png?240419"
+      }
+    },
+    "name": "Roronoa Zoro",
+    "type": "Character",
+    "cost": 4,
+    "power": 4000,
+    "colors": [
+      "Green"
+    ],
+    "subtype": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "attributes": [
+      "Slash"
     ]
   }
 }
