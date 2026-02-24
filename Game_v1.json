@@ -1,0 +1,394 @@
+{
+  "name": "One Piece TCG",
+  "menuBackgroundImage": "https://i.imgur.com/C3yEbOg.jpeg",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://i.imgur.com/xB9Wcy4.jpeg",
+      "https://i.imgur.com/QJTFqyt.jpeg",
+      "https://i.imgur.com/Q8O6bhf.png",
+      "https://i.imgur.com/LiqG4NS.jpeg"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "ONE PIECE CARD GAME – RULES SUMMARY\n\nSETUP:\n• Place your Leader card face-up in the Leader area\n• Shuffle your deck (50 cards)\n• Place your DON!! deck (10 DON!! cards) in the DON!! area\n• Place the top cards of your deck face-down into your Life area equal to your Leader's Life value\n• Draw 5 cards from your deck\n• Mulligan: You may shuffle your entire hand back and draw 5 new cards (once only)\n• First player does NOT draw on their first turn\n\nTURN PHASES:\n1. Refresh Phase – Set all rested (sideways) cards upright, including DON!!\n2. DON!! Phase – Add 2 DON!! cards from DON!! deck to your Cost Area (1 on first turn for first player)\n3. Draw Phase – Draw 1 card (skipped on first player's first turn)\n4. Main Phase – Play Characters, Events, Stages by paying DON!! cost. Attach DON!! to Leader/Characters for +1000 power each\n5. Battle Phase – Attack with your Leader and active Characters\n6. End Phase – Resolve end-of-turn effects\n\nATTACKING:\n• Rest (turn sideways) the attacking card to declare an attack\n• You may attack the opponent's Leader OR a rested Character\n• Compare Power: Attacker wins if power ≥ defender's power\n• Defender may play Counter events or use Counter+ values from hand\n• If Leader takes damage, move the top Life card to hand (check for Trigger)\n• If a Character is defeated, it goes to Trash\n\nWIN CONDITION:\n• Deal damage to opponent's Leader when they have 0 Life cards remaining\n\nKEY RULES:\n• Max 4 copies of any card (by card number) in deck\n• Max 5 Characters on the field at once\n• Leader cannot be KO'd (only takes Life damage)\n• DON!! attached to characters returns to Cost Area at end of turn\n• [Trigger] effects activate when a Life card is moved to hand from damage\n• [Blocker] – Rest this card to redirect an attack to it\n• [Rush] – This card can attack the turn it is played\n• [Counter] – Can be played during the Counter Step of battle",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "",
+    "cardBack": "https://i.imgur.com/C3yEbOg.jpeg",
+    "extraCardBacks": {
+      "don": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRONRgZsYvKc8vVQaMptywwZnDfZO1aHY7pGw&s"
+    }
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "name",
+      "type",
+      "colors",
+      "cost"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "Draw 5 cards. You may shuffle your entire hand back into the deck and draw 5 new cards.",
+        "startingHandSize": 5,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "SETUP REMINDERS:\n• Place Leader face-up in Leader zone\n• Place top cards of deck face-down in Life (equal to Leader's Life value)\n• First player skips their first Draw Phase\n• First player adds only 1 DON!! on their first DON!! Phase (2 DON!! per turn after)\n\nGAMEPLAY REMINDERS:\n• Refresh Phase: Unrest all cards\n• DON!! Phase: Add 2 DON!! to Cost Area from DON!! deck\n• Attach DON!! to Leader/Characters for +1000 power each\n• Max 5 Characters on the field\n• Rested Characters can be targeted by attacks\n• Triggers activate when Life is taken\n• DON!! attached to characters returns to Cost Area at end of turn",
+      "tokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Life",
+          "Character_Section",
+          "Mana",
+          "Leader",
+          "Stage",
+          "don"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": {
+                "justify-content": "space-between"
+              },
+              "content": [
+                {
+                  "direction": "column",
+                  "style": {
+                    "width": "32vh"
+                  },
+                  "content": [
+                    {
+                      "section": "Life",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "column",
+                  "style": {
+                    "width": "22vh"
+                  },
+                  "content": [
+                    {
+                      "section": "Leader",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "column",
+                  "style": {
+                    "width": "22vh"
+                  },
+                  "content": [
+                    {
+                      "section": "Stage",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "column",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Character_Section",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "direction": "row",
+                      "style": false,
+                      "content": [
+                        {
+                          "section": "don",
+                          "style": {
+                            "width": "10vh"
+                          }
+                        },
+                        {
+                          "section": "Mana",
+                          "style": false
+                        }
+                      ],
+                      "isSymetricalForOpponents": false
+                    },
+                    {
+                      "direction": "column",
+                      "style": false,
+                      "content": [],
+                      "isSymetricalForOpponents": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Leader",
+          "don"
+        ],
+        "autoPlayFromHand": {
+          "Character": "Character_Section",
+          "Stage": "Stage",
+          "Event": "Stack",
+          "don": "Mana"
+        },
+        "autoPlayFromStack": {
+          "Event": "Discard"
+        },
+        "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "Trash",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sideboard": {
+            "isDefaultSection": true,
+            "title": "Sideboard",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Life": {
+            "title": "Life",
+            "isHidden": "yes",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Life",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Leader": {
+            "title": "Leader",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Leader",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stage": {
+            "title": "Stage",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Stage Card",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Character_Section": {
+            "title": "Character_Section",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Character Section",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "don": {
+            "title": "don",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "DECK",
+            "displayedTitle": "DON!!"
+          },
+          "Mana": {
+            "title": "Mana",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Cost Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
