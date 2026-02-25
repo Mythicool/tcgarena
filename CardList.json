@@ -54525,17 +54525,17 @@
     "face": {
       "front": {
         "name": "DON!! Card",
-        "type": "DON",
+        "type": "Mana",
         "cost": 0,
         "image": "https://tcgplayer-cdn.tcgplayer.com/product/672185_in_1000x1000.jpg"
       }
     },
     "name": "DON!! Card",
-    "type": "DON",
+    "type": "Mana",
     "cost": 0,
     "power": 0,
     "colors": [
-      "DON"
+      "Mana"
     ],
     "subtype": [],
     "attributes": []

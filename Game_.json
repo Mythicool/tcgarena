@@ -16,7 +16,7 @@
         "dataUrl": "https://mythicool.github.io/tcgarena/CardList.json",
         "cardBack": "https://i.imgur.com/C3yEbOg.jpeg",
         "extraCardBacks": {
-            "DON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRONRgZsYvKc8vVQaMptywwZnDfZO1aHY7pGw&s"
+            "Mana": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRONRgZsYvKc8vVQaMptywwZnDfZO1aHY7pGw&s"
         }
     },
     "deckBuilding": {
@@ -60,7 +60,7 @@
                     "Leader",
                     "Stage",
                     "Character",
-                    "DON",
+                    "Mana",
                     "CostArea"
                 ],
                 "layout": {
@@ -142,7 +142,7 @@
                                     },
                                     "content": [
                                         {
-                                            "section": "DON",
+                                            "section": "Mana",
                                             "style": false
                                         }
                                     ],
@@ -168,13 +168,14 @@
                 },
                 "categoriesAlreadyOnBoard": [
                     "Leader",
-                    "Stage"
+                    "Stage",
+                    "Mana"
                 ],
                 "autoPlayFromHand": {
                     "Character": "Character",
                     "Stage": "Stage",
                     "Event": "Stack",
-                    "DON": "CostArea"
+                    "Mana": "CostArea"
                 },
                 "autoPlayFromStack": {
                     "Event": "Discard"
@@ -364,8 +365,8 @@
                         "keepTappedNewTurn": false,
                         "showHiddenCardInHistory": false
                     },
-                    "DON": {
-                        "title": "DON",
+                    "Mana": {
+                        "title": "Mana",
                         "isHidden": "yes",
                         "height": "SMALL",
                         "alignment": "DECK",
